@@ -34,8 +34,7 @@ Click the below button to watch the video tutorial on deploying
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LushaiMusic/vc-userbot)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fharrykerrywadly%2F
-VC-UserBot&envs=API_HASH)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fharrykerrywadly%2FVC-UserBot&envs=API_HASH)
 
 - Enable the worker after deploy the project to Heroku
 
